@@ -1,0 +1,13 @@
+# Game data and builds must never be committed (they belong to Gamevil / Com2uS)
+*.apk
+*.aab
+*.obb
+assets/bin/
+Builds/
+Library/
+Temp/
+Logs/
+*.json
+!**/package.json
+__pycache__/
+*.pyc
